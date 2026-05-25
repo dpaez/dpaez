@@ -12,5 +12,8 @@ ___
 - Currently, I'm revamping [chan](https://github.com/geut/chan) adding an AI layer to augment commits and release history. [**ACTIVE**]
 - Sher.fm, the fan-2-fan live audio streaming network. Streaming witouth streaming servers 🆒
 - Tuqui.app, gift cards for small shops 🎁
+
+ ___
  
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/carax?style=social)
 
