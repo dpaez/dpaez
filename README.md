@@ -14,6 +14,7 @@ ___
 - Tuqui.app, gift cards for small shops 🎁
 
  ___
- 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/carax?style=social)
+
+<a href="https://x.com/carax"><img src="https://img.shields.io/twitter/follow/carax?style=social" height=25></a>
+
 
