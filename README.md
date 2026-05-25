@@ -1,16 +1,16 @@
-## Hi there 👋
+## D Ξ K Δ
 
-<!--
-**dpaez/dpaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="11988" height="1900" alt="Github Banner DEKA" src="https://github.com/user-attachments/assets/dd0e6f9a-a3e7-4edd-9c00-349048f46a1b" />
 
-Here are some ideas to get you started:
+Hey, I'm Diego (aka deka, dk). I build web products with Node.js and React, with a strong interest in P2P systems, developer tooling, and web performance. 
+Previously co-founded [Sher](sher.fm), a decentralized live audio streaming platform.
+🧉 🇦🇷
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## PROJECTS
+
+- Currently, I'm revamping [chan](https://github.com/geut/chan) adding an AI layer to augment commits and release history. [**ACTIVE**]
+- Sher.fm, the fan-2-fan live audio streaming network. Streaming witouth streaming servers 🆒
+- Tuqui.app, gift cards for small shops 🎁
+ 
+
